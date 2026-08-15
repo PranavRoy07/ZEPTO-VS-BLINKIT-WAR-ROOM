@@ -116,7 +116,7 @@ zepto_vs_blinkit/
 ![Customer Intelligence](images/Customer.png)
 
 ### 03 — Pricing & SKU Analytics
-![Pricing & SKU Analytics](images/Pricing_SKU.png)
+![Pricing & SKU Analytics](images/Pricing&SKU.png)
 
 ### 04 — Delivery Fleet Intelligence
 ![Delivery Fleet Intelligence](images/Delivery.png)
